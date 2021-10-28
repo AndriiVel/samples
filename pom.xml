@@ -6,7 +6,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>my-project-name</artifactId>
-    <version>1.0</version>
+    <version>0.1</version>
     <name>My project name</name>
 
     <properties>
