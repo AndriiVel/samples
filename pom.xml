@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.java.version>17</project.java.version>
         <maven.compiler.release>${project.java.version}</maven.compiler.release>
-        <maven.version>3.8.2</maven.version>
+        <maven.version>[3.8.0,)</maven.version>
         <main.class>com.example.Main</main.class>
 
         <maven.surefire.plugin.version>3.0.0-M5</maven.surefire.plugin.version>
